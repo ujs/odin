@@ -1,9 +1,10 @@
+#stockpicker
 def stockpicker(array)
 	diff= []
 	collector=[]
 	hash= Hash.new
 
-	#stockpicker
+	
 	if array[0]==array.max
 	     array.delete(array.max)
 	end
