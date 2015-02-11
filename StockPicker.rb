@@ -25,7 +25,7 @@ def stockpicker(array)
 	end
 
 	a=hash.max_by{|k,v| v}
-	p a[0]
+	print a[0]
 
 end
 stockpicker([17,3,6,9,15,8,6,1,10])
