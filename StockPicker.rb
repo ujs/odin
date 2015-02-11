@@ -1,4 +1,4 @@
-#stockpicker
+#stockpicker...
 def stockpicker(array)
 	diff= []
 	collector=[]
